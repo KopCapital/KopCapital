@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Kop Capital
 
-You can use the [editor on GitHub](https://github.com/KopCapital/KopCapital/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Kop Capital provides analysis of the business, strategy and technology of private and public companies in the technology sector. As technologists, we understand the deep moats some of these companies are building and aim to break it down in an easy to understand consumable format for retail investors.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About Us
+We have over 25 years experience of operating and investing in technology companies and have built successful careers in some of these companies.
 
-### Markdown
+The name Kop Capital comes from the famous stand at the Liverpool football club. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Ethics
+Our goal is to provide an independent analysis of these companies. 
+- We are not paid by any company for our analysis
+- We will refrain from analysing companies which would conflict with our professional interests.  
 
-```markdown
-Syntax highlighted code block
+### Disclosure
+The content on our site is for informational purposes only and should not be construed as legal, tax, financial or investment advice. 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KopCapital/KopCapital/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+We do our best to ensure that the information on our website is accurate. If you do spot an error or  want to provide feedback please contact us at <feedback@kop.capital>.
